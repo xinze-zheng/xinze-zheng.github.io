@@ -11,6 +11,4 @@ main:
 
   - title: "Courses"
     url: /courses/
-    
-  - title: "Guide"
-    url: /markdown/
+

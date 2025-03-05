@@ -19,19 +19,19 @@ Publications
 **StarCDN: Moving Content Delivery Networks to Space**\\
 **William X. Zheng**, Aryan Taneja, Maleeha Masood, Anirudh Sabnis, Ramesh Sitaraman, Deepak Vasisht\\
 Under review Sigcomm 2025\\
-PDF
+[PDF]
 
 **Fidelity of Cloud Emulators: The Imitation Game of Testing Cloud-based Software**\\
 Anna Mazhar, Saad Sher Alam, **William X. Zheng**, Yinfang Chen, Suman Nath, Tianyin Xu\\
 ICSE 2025\\
-[PDF](https://www.microsoft.com/en-us/research/publication/fidelity-of-cloud-emulators-the-imitation-game-of-testing-cloud-based-software/)
+[[PDF](https://www.microsoft.com/en-us/research/publication/fidelity-of-cloud-emulators-the-imitation-game-of-testing-cloud-based-software/)]
 
 Research Experience
 ======
 * Satellite-based CDNs (May 2024 - Present, with Prof. Deepak and Akamai)
   * Built a theoretically provable high-fidelity CDN traffic generator for geographically diversed traces that achieves < 1% difference in hit rate curve and requests distribution with real traces.
   * Designed and evaluated a satellite-based CDN system that can reduce current space networks' uplink usage by up to 80% and latency by 50% as compared to current space networks. 
-* Cloud Management Systen Interaction (May 2024 - Present, With Prof. Tianyin)
+* Cloud Management Systen Interaction (May 2024 - Present, with Prof. Tianyin)
   * Studied the interaction and failure patterns between cloud management system, operator, and applications.
   * Found 70+ new bugs with a tool implemented based on the findings in study.
 * Cloud Storage System Emulator Fidelity (May 2023 - March 2024, with Prof. Tianyin) 
