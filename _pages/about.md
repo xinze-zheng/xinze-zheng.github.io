@@ -14,11 +14,16 @@ I have a broad interest in **networked systems** research, no matter it's wired 
 
 At UIUC, I work closely with Prof. [Deepak Vasisht](https://deepakv.web.illinois.edu/index.html) on space networks and content delivery, and Prof. [Tianyin Xu](https://tianyin.github.io/) on cloud systems. I also collaborate with Akamai in my CDN research.
 
+News 
+=====
+2025.04: I start working with Prof. [Francis](https://fyy.cs.illinois.edu/) and Prof. [Ravi](https://www.cs.princeton.edu/~ravian/). This will be an exciting journey.\\
+2025.04: StarCDN is accepted to Sigcomm 2025. Deepest thanks to everyone supporting me on this journey.
+
 Publications
 =====
 **StarCDN: Moving Content Delivery Networks to Space**\\
 **William X. Zheng**, Aryan Taneja, Maleeha Masood, Anirudh Sabnis, Ramesh Sitaraman, Deepak Vasisht\\
-Under review Sigcomm 2025\\
+To appear in Sigcomm 2025\\
 [PDF]
 
 **Fidelity of Cloud Emulators: The Imitation Game of Testing Cloud-based Software**\\
@@ -28,7 +33,7 @@ ICSE 2025\\
 
 Research Experience
 ======
-* Satellite-based CDNs (May 2024 - Present, with Prof. Deepak and Akamai)
+* Satellite-based CDNs (May 2024 - May 2025, with Prof. Deepak and Akamai)
   * Built a theoretically provable high-fidelity CDN traffic generator for geographically diversed traces that achieves < 1% difference in hit rate curve and requests distribution with real traces.
   * Designed and evaluated a satellite-based CDN system that can reduce current space networks' uplink usage by up to 80% and latency by 50% as compared to current space networks. 
 * Cloud Management Systen Interaction (May 2024 - Present, with Prof. Tianyin)
