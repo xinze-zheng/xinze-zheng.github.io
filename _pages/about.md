@@ -16,8 +16,9 @@ At UIUC, I work closely with Prof. [Deepak Vasisht](https://deepakv.web.illinois
 
 News 
 =====
+2025.05: 🎉 Received [Jeffrey P. Blahut Memorial Scholarship](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/jeffrey-p-blahut-memorial-scholarship). \\
 2025.04: I start working with Prof. [Francis](https://fyy.cs.illinois.edu/) and Prof. [Ravi](https://www.cs.princeton.edu/~ravian/). This will be an exciting journey.\\
-2025.04: StarCDN is accepted to Sigcomm 2025. Deepest thanks to everyone supporting me on this journey.
+2025.04: 🎉 StarCDN is accepted to Sigcomm 2025. Deepest thanks to everyone supporting me on this journey.
 
 Publications
 =====
