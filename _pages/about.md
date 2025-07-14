@@ -16,15 +16,21 @@ At UIUC, I work closely with Prof. [Deepak Vasisht](https://deepakv.web.illinois
 
 News 
 =====
+2025.07: 🎉 Oat is accepted to NSDI2026. \\
 2025.05: 🎉 Received [Jeffrey P. Blahut Memorial Scholarship](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/jeffrey-p-blahut-memorial-scholarship). \\
 2025.04: I start working with Prof. [Francis](https://fyy.cs.illinois.edu/) and Prof. [Ravi](https://www.cs.princeton.edu/~ravian/). This will be an exciting journey.\\
 2025.04: 🎉 StarCDN is accepted to Sigcomm 2025. Deepest thanks to everyone supporting me on this journey.
 
 Publications
 =====
+**Who Watches the Watchers? On the Reliability of Softwarizing Cloud Application Management**\\
+Jiawei Tyler Gu, Zhen Tang, Yiming Su, Bogdan Alexandru Stoica, Xudong Sun, **William X. Zheng**, Yue Zhang, Akond Rahman, Chen Wang, Tianyin Xu\\
+To appear in NSDI 2026\\
+[PDF]
+
 **StarCDN: Moving Content Delivery Networks to Space**\\
 **William X. Zheng**, Aryan Taneja, Maleeha Masood, Anirudh Sabnis, Ramesh Sitaraman, Deepak Vasisht\\
-To appear in Sigcomm 2025\\
+To appear in SIGCOMM 2025\\
 [PDF]
 
 **Fidelity of Cloud Emulators: The Imitation Game of Testing Cloud-based Software**\\
