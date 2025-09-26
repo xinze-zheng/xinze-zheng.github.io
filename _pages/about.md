@@ -29,8 +29,8 @@ To appear in NSDI 2026\\
 
 **StarCDN: Moving Content Delivery Networks to Space**\\
 **William X. Zheng**, Aryan Taneja, Maleeha Masood, Anirudh Sabnis, Ramesh Sitaraman, Deepak Vasisht\\
-To appear in SIGCOMM 2025\\
-[[paper](https://dl.acm.org/doi/10.1145/3718958.3754345)][talk]
+SIGCOMM 2025\\
+[[paper](https://dl.acm.org/doi/10.1145/3718958.3754345)][[talk](https://www.youtube.com/watch?v=-dX0DbW-9iY)]
 
 **Fidelity of Cloud Emulators: The Imitation Game of Testing Cloud-based Software**\\
 Anna Mazhar, Saad Sher Alam, **William X. Zheng**, Yinfang Chen, Suman Nath, Tianyin Xu\\
