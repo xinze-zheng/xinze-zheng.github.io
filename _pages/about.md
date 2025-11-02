@@ -16,7 +16,7 @@ At UIUC, I work closely with Prof. [Deepak Vasisht](https://deepakv.web.illinois
 
 News 
 =====
-2025.10: I'm nominated for CRA Outstanding Undergraduate Researcher Awards by our department.
+2025.10: I'm nominated for CRA Outstanding Undergraduate Researcher Awards by our department.\\
 2025.07: 🎉 Oat is accepted to NSDI2026. \\
 2025.05: 🎉 Received [Jeffrey P. Blahut Memorial Scholarship](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/jeffrey-p-blahut-memorial-scholarship). \\
 2025.04: 🎉 StarCDN is accepted to SIGCOMM 2025. Deepest thanks to everyone supporting me on this journey.
