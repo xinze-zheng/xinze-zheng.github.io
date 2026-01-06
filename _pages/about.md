@@ -8,7 +8,7 @@ redirect_from:
 ---
 About Me
 ======
-This is William. I'm an undergraduate student majoring in Computer Science & Statistics with a minor in Mathematics at [University of Illinois at Urbana-Champaign](https://illinois.edu/). 
+This is William. I am currently a Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/). I recently graduated from [University of Illinois at Urbana-Champaign](https://illinois.edu/)(B.S. in Computer Science and Statistics, Minor in Mathematics). 
 
 I have a broad interest in **networked systems** research. I enjoy building new systems for emerging workloads and computing environments with equal attention to systems and networking optimizations.
 
@@ -16,8 +16,7 @@ At UIUC, I work closely with Prof. [Deepak Vasisht](https://deepakv.web.illinois
 
 News 
 =====
-2025.11: I will be joining Microsoft Research Asia: System Research Group as a research intern for next year until my PhD begins! Can't wait to meet amazing people in Beijing and finally to have some time with my family.\\
-2025.10: I'm nominated for CRA Outstanding Undergraduate Researcher Awards by our department.\\
+2025.11: I will be joining Microsoft Research Asia: System Research Group as a research intern for next year until my PhD begins! \\
 2025.07: 🎉 Oat is accepted to NSDI2026. \\
 2025.05: 🎉 Received [Jeffrey P. Blahut Memorial Scholarship](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/jeffrey-p-blahut-memorial-scholarship). \\
 2025.04: 🎉 StarCDN is accepted to SIGCOMM 2025. Deepest thanks to everyone supporting me on this journey.
