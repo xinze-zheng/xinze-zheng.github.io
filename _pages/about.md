@@ -16,7 +16,7 @@ At UIUC, I work closely with Prof. [Deepak Vasisht](https://deepakv.web.illinois
 
 News 
 =====
-2026.3: I will be joining UC Berkeley for my Ph.D. studies. I will be co-affiliated with Sky Lab (with Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) and NetSys Lab (with Prof. [Rishabh Iyer](https://rishabh246.github.io/). 
+2026.3: I will be joining UC Berkeley for my Ph.D. studies. I will be co-affiliated with Sky Lab (with Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) and NetSys Lab (with Prof. [Rishabh Iyer](https://rishabh246.github.io/)). \\
 2026.1: I start at Microsoft Research Asia: System Research Group as a research intern until my PhD begins! \\
 2025.07: 🎉 Oat is accepted to NSDI2026. \\
 2025.05: 🎉 Received [Jeffrey P. Blahut Memorial Scholarship](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/jeffrey-p-blahut-memorial-scholarship). \\
