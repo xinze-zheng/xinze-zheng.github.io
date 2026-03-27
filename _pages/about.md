@@ -8,15 +8,16 @@ redirect_from:
 ---
 About Me
 ======
-This is William. I am currently a Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/). I recently graduated from [University of Illinois at Urbana-Champaign](https://illinois.edu/)(B.S. in Computer Science and Statistics, Minor in Mathematics). 
+This is William. I am currently a Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia-zh-cn/). Soon, I will be joining UC Berkeley for Ph.D. studies. I recently graduated from [University of Illinois at Urbana-Champaign](https://illinois.edu/)(B.S. in Computer Science and Statistics, Minor in Mathematics). 
 
 I have a broad interest in **networked systems** research. I enjoy building new systems for emerging workloads and computing environments with equal attention to systems and networking optimizations.
 
-At UIUC, I work closely with Prof. [Deepak Vasisht](https://deepakv.web.illinois.edu/index.html) and Prof. [Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/) on space networks and content delivery, and Prof. [Tianyin Xu](https://tianyin.github.io/) on cloud systems. I also collaborate with Akamai in my CDN research. Currently, I'm working with Prof. [Francis Yan](https://fyy.cs.illinois.edu/) and Prof. [Ravi Netravali](https://www.cs.princeton.edu/~ravian/)  on real-time communications and ML inference infrastructures.
+At UIUC, I work closely with Prof. [Deepak Vasisht](https://deepakv.web.illinois.edu/index.html) and Prof. [Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/) on space networks and content delivery, and Prof. [Tianyin Xu](https://tianyin.github.io/) on cloud systems. I also work with [Francis Yan](https://fyy.cs.illinois.edu/) and Prof. [Ravi Netravali](https://www.cs.princeton.edu/~ravian/)  on real-time communications and ML inference infrastructures.
 
 News 
 =====
-2025.11: I will be joining Microsoft Research Asia: System Research Group as a research intern until my PhD begins! \\
+2026.3: I will be joining UC Berkeley for my Ph.D. studies. I will be co-affiliated with Sky Lab (with Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) and NetSys Lab (with Prof. [Rishabh Iyer](https://rishabh246.github.io/). 
+2026.1: I start at Microsoft Research Asia: System Research Group as a research intern until my PhD begins! \\
 2025.07: 🎉 Oat is accepted to NSDI2026. \\
 2025.05: 🎉 Received [Jeffrey P. Blahut Memorial Scholarship](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/jeffrey-p-blahut-memorial-scholarship). \\
 2025.04: 🎉 StarCDN is accepted to SIGCOMM 2025. Deepest thanks to everyone supporting me on this journey.
