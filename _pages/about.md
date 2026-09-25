@@ -36,25 +36,6 @@ Anna Mazhar, Saad Sher Alam, **William X. Zheng**, Yinfang Chen, Suman Nath, Tia
 ICSE 2025\\
 [[paper](https://www.microsoft.com/en-us/research/publication/fidelity-of-cloud-emulators-the-imitation-game-of-testing-cloud-based-software/)]
 
-Research Experience
-======
-* Real-time communication systems for online vision language models  
-  * Profiled and measured state-of-the-art vision language models to understand their network stacks.
-  * Dissecting the challenges in serving vision models with multi-tenant sessions.
-  * Integrating WebRTC with inference systems.
-* Multi-party video conferencing (May 2025 - Aug 2025, with Prof. Francis)
-  * Understood the challenges in auto-scaling the selective forwarding unit (SFU) in the cloud.
-  * Prototyped a Jitsi-based, regional traffic-aware auto-scaling framework.
-  * The vision for cloud-native autoscaling has been made into an open-sourced engineering project at [Pion](https://github.com/pion/ion) (welcome to join us to build the modern auto-scaling modular SFU!). 
-* Satellite-based CDNs (May 2024 - May 2025, with Prof. Deepak and Prof. Ramesh)
-  * Built a theoretically provable high-fidelity CDN traffic generator for geographically diverse traces that achieves < 1% difference in hit rate curve and requests distribution with real traces.
-  * Designed and evaluated a satellite-based CDN system that can reduce current space networks' uplink usage by up to 80% and latency by 50% as compared to current space networks. 
-* Cloud Management System Interaction (May 2024 - May 2025, with Prof. Tianyin)
-  * Studied the interaction and failure patterns between the cloud management system, operator, and the applications.
-  * Wrote a static-analysis tool to uncover application-specific in the cloud controller's custom resources.
-  * Found 70+ new bugs with a tool implemented based on the findings in the study.
-* Cloud Storage System Emulator Fidelity (May 2023 - March 2024, with Prof. Tianyin) 
-  * Built a fuzzing tool that identifies 94 API discrepancies between the emulator and actual services.
   * Presented a detailed study on discrepancies.
   * Built a testing framework that selectively runs unit tests against the  cloud and emulator to ensure testing fidelity while minimizing the cost.
 
