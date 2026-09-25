@@ -38,8 +38,3 @@ SIGCOMM 2025\\
 Anna Mazhar, Saad Sher Alam, **William X. Zheng**, Yinfang Chen, Suman Nath, Tianyin Xu\\
 ICSE 2025\\
 [[paper](https://www.microsoft.com/en-us/research/publication/fidelity-of-cloud-emulators-the-imitation-game-of-testing-cloud-based-software/)]
-
-  * Presented a detailed study on discrepancies.
-  * Built a testing framework that selectively runs unit tests against the  cloud and emulator to ensure testing fidelity while minimizing the cost.
-
-
