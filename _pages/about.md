@@ -16,7 +16,7 @@ Before Ph.D. I interned at [Microsoft Research Asia](https://www.microsoft.com/e
 
 News 
 =====
-2026.09: Two papers to appear in HotNet2026 on scale-up domain contention. \\
+2026.09: Two papers to appear in HotNets2026 on scale-up domain contention. \\
 2026.07: 🎉 Received Berkeley EECS Department Fellowship. \\
 2025.07: 🎉 Oat is accepted to NSDI2026. \\
 2025.05: 🎉 Received [Jeffrey P. Blahut Memorial Scholarship](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/jeffrey-p-blahut-memorial-scholarship). \\
