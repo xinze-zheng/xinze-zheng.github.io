@@ -16,17 +16,24 @@ Before Ph.D. I interned at [Microsoft Research Asia](https://www.microsoft.com/e
 
 News 
 =====
-2026.09: Two papers to appear in HotNets2026 on scale-up domain contention. \\
-2026.07: 🎉 Received Berkeley EECS Department Fellowship. \\
-2025.07: 🎉 Oat is accepted to NSDI2026. \\
-2025.05: 🎉 Received [Jeffrey P. Blahut Memorial Scholarship](https://siebelschool.illinois.edu/about/awards/undergraduate-scholarships-awards/jeffrey-p-blahut-memorial-scholarship). \\
-2025.04: 🎉 StarCDN is accepted to SIGCOMM 2025. Deepest thanks to everyone supporting me on this journey.
+2026.09: Two papers to appear in HotNets2026 on scale-up domain contention. Excited to meet old/new friend at Utah. \\
+2026.07: 🎉 Received Berkeley EECS Department Fellowship.
 
 Publications
 =====
+**Understanding Contention in GPU Scale-Up Domains**\\
+**William X. Zheng**\*, Zihan Zhao\*, Ziming Mao, Andrei Stan, Haiying Shen, Costin Raiciu, Jing Liu, Zhongjie Chen, Rishabh Iyer, and Ion Stoica
+
+**Scale-up networking research: the next frontier**
+Andrei Stan, Alex Pantucu, **William X. Zheng**, Zhongjie Chen, Ziming Mao, Rishabh Iyer, Ion Stoica, and Costin Raiciu
+
+**LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization**\\
+Yi Pan, Haocheng Xi, Kan Zhu, Xingyang Li, Yibo Wu, Mayank Mishra, Hongtao Zhang, **William X Zheng**, Baris Kasikci, Song Han, Kurt Keutzer, Rishabh Iyer, Ion Stoica\\
+Preprint
+
 **Who Watches the Watchers? On the Reliability of Softwarizing Cloud Application Management**\\
 Jiawei Tyler Gu, Zhen Tang, Yiming Su, Bogdan Alexandru Stoica, Xudong Sun, **William X. Zheng**, Yue Zhang, Akond Rahman, Chen Wang, Tianyin Xu\\
-To appear in NSDI 2026\\
+NSDI 2026\\
 [[paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=42nNhBgAAAAJ&citation_for_view=42nNhBgAAAAJ:d1gkVwhDpl0C)
 
 **StarCDN: Moving Content Delivery Networks to Space**\\
