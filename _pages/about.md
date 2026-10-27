@@ -22,7 +22,7 @@ News
 Publications
 =====
 **Understanding Contention in GPU Scale-Up Domains**\\
-**William X. Zheng**\*, Zihan Zhao\*, Ziming Mao, Andrei Stan, Haiying Shen, Costin Raiciu, Jing Liu, Zhongjie Chen, Rishabh Iyer, and Ion Stoica
+**William X. Zheng**\*, Zihan Zhao\*, Ziming Mao, Andrei Stan, Haiying Shen, Costin Raiciu, Jing Liu, Zhongjie Chen, Rishabh Iyer, and Ion Stoica\\
 HotNets 2026
 
 **Scale-up networking research: the next frontier**\\
