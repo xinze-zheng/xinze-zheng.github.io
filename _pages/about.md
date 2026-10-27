@@ -23,9 +23,11 @@ Publications
 =====
 **Understanding Contention in GPU Scale-Up Domains**\\
 **William X. Zheng**\*, Zihan Zhao\*, Ziming Mao, Andrei Stan, Haiying Shen, Costin Raiciu, Jing Liu, Zhongjie Chen, Rishabh Iyer, and Ion Stoica
+HotNets 2026
 
-**Scale-up networking research: the next frontier**
-Andrei Stan, Alex Pantucu, **William X. Zheng**, Zhongjie Chen, Ziming Mao, Rishabh Iyer, Ion Stoica, and Costin Raiciu
+**Scale-up networking research: the next frontier**\\
+Andrei Stan, Alex Pantucu, **William X. Zheng**, Zhongjie Chen, Ziming Mao, Rishabh Iyer, Ion Stoica, and Costin Raiciu\\
+HotNets 2026
 
 **LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization**\\
 Yi Pan, Haocheng Xi, Kan Zhu, Xingyang Li, Yibo Wu, Mayank Mishra, Hongtao Zhang, **William X Zheng**, Baris Kasikci, Song Han, Kurt Keutzer, Rishabh Iyer, Ion Stoica\\
